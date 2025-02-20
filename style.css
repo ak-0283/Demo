@@ -8,6 +8,10 @@ body {
 .container {
     margin-top: 50px;
 }
+.container h1{
+    color: #235b96;
+    font-style: italic;
+}
 button {
     padding: 10px 20px;
     font-size: 16px;
